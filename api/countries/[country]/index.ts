@@ -24,15 +24,15 @@ export default async (req: NowRequest, response: NowResponse) => {
     response.json({
       confirmed: {
         value: confirmed,
-        detail: `https://covid19.mathdro.id/api/countries/${country}/confirmed`
+        detail: `https://covid-19-api-vert.now.sh/api/countries/${country}/confirmed`
       },
       recovered: {
         value: recovered,
-        detail: `https://covid19.mathdro.id/api/countries/${country}/recovered`
+        detail: `https://covid-19-api-vert.now.sh/api/countries/${country}/recovered`
       },
       deaths: {
         value: deaths,
-        detail: `https://covid19.mathdro.id/api/countries/${country}/deaths`
+        detail: `https://covid-19-api-vert.now.sh/api/countries/${country}/deaths`
       },
       lastUpdate
     });
