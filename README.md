@@ -1,6 +1,5 @@
-<p align="center">
-  <img width="500" src="https://covid19.mathdro.id/api/og" />
-</p>
+[![](https://covid-19-api-vert.now.sh/api/og)](https://covid-19-api-vert.now.sh/api/og)
+
 
 # COVID-19 API
 
