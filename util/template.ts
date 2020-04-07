@@ -204,7 +204,7 @@ export function getHtml(parsedReq: ParsedRequest) {
           </div>
         </div>
         <div class="data-wrapper font-inter" style="margin: 2rem auto;">
-          Last Update: <b>${lastUpdate}</b>. With ♥️ by <b>@mathdroid</b>
+          Last Update: <b>${lastUpdate}</b>. Data source: CSSEGISandData JHU (Center For Systems Science and Engineering at JHU)</b>
         <div>
       </div>
   </body>
