@@ -1,1 +1,1 @@
-{"alias":"covid19.mathdro.id","headers":[{"source":"/(.*)","headers":[{"key":"Cache-Control","value":"public, s-maxage=60, stale-while-revalidate"},{"key":"Access-Control-Allow-Origin","value":"*"}]}],"name":"covid-19-api"}
+{"alias":"covid-19-api-vert.now.sh","headers":[{"source":"/(.*)","headers":[{"key":"Cache-Control","value":"public, s-maxage=60, stale-while-revalidate"},{"key":"Access-Control-Allow-Origin","value":"*"}]}],"name":"covid-19-api"}
