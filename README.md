@@ -1,7 +1,7 @@
 [![](https://covid-19-api-vert.now.sh/api/og)](https://covid-19-api-vert.now.sh/api/og)
 
 
-# COVID-19 API
+# COVID-19 API (limited)
 
 > Serving data from John Hopkins University CSSE as a [JSON API](https://covid19.mathdro.id)
 
